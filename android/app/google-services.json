@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "491406833717",
+    "firebase_url": "https://ninja-ddda1.firebaseio.com",
+    "project_id": "ninja-ddda1",
+    "storage_bucket": "ninja-ddda1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491406833717:android:6274dfd27102a036dad97c",
+        "android_client_info": {
+          "package_name": "com.myai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491406833717-p47buifva4t6dsv6bj5a6s27rkeph4ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myai",
+            "certificate_hash": "b8a59b742284746562f52f3902911aae7c32388d"
+          }
+        },
+        {
+          "client_id": "491406833717-90gbg1j16188d120j6u6gcob6723eha2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEUFXcG-c0DPT_ZMcqICHe3gkvTY2uZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491406833717-90gbg1j16188d120j6u6gcob6723eha2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491406833717-ubjqp6k68rgpn03nm443d8j17ppp9eo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alisam.googlesignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491406833717:android:75939cdd68d54ab6dad97c",
+        "android_client_info": {
+          "package_name": "com.rnbridgeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491406833717-evdbvj6f2dt05pq28a15dkddv2utghpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnbridgeexample",
+            "certificate_hash": "21db1c75fbca30500d99672e28af6c39faac68f0"
+          }
+        },
+        {
+          "client_id": "491406833717-90gbg1j16188d120j6u6gcob6723eha2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEUFXcG-c0DPT_ZMcqICHe3gkvTY2uZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491406833717-90gbg1j16188d120j6u6gcob6723eha2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491406833717-ubjqp6k68rgpn03nm443d8j17ppp9eo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alisam.googlesignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
