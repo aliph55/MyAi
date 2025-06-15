@@ -26,15 +26,8 @@ const Home = ({navigation}) => {
   const scrollRef = useRef(null);
 
   const onDismiss = useCallback(task => {
-    console.log('onDismiss called with task:', task);
-    setTasks(prevTasks => {
-      const newTasks = prevTasks.filter(item => item.index !== task.index);
-      console.log('New tasks:', newTasks);
-      return newTasks;
-    });
+    setTasks(prevTasks => prevTasks.filter(item => item.index !== task.index));
   }, []);
-
-  console.log('Rendering tasks:', tasks.length); // Hata ayıklama
 
   return (
     <GestureHandlerRootView style={{flex: 1}}>
